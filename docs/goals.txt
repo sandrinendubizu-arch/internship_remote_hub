@@ -1,4 +1,2 @@
-
-a.learn to be more proficient in java script
 1. i intend to learn backend engineering techniques
 2. i intend to learn a better stack
