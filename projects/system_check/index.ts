@@ -1,7 +1,3 @@
-let internName : string ="Sandrine Ndubizu";
-let currentweek:2;
-let iscodeflying: boolean=true;
-
 let engineerName: string ="Ndubizu Sandrine";
 let assignedTerminalId:number= 27;
 let readyToBuild: boolean=true;
