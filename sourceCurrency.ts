@@ -1,0 +1,1 @@
+const sourceCurrency: string = "USD";

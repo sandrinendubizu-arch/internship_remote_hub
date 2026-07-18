@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/sandrinendubizu-arch/internship_remote_hub/issues"
   },
-  "homepage": "https://github.com/sandrinendubizu-arch/internship_remote_hub#readme"
+  "homepage": "https://github.com/sandrinendubizu-arch/internship_remote_hub#readme",
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "typescript": "^7.0.2"
+  }
 }

@@ -1,0 +1,1 @@
+const targetCurrency: string = "NGN";

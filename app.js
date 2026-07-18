@@ -33,3 +33,29 @@ function generateReceipt() {
     console.log("Thank you for your transaction!\n");
 }
 generateReceipt();
+function showScene(next) {
+
+    let amount = prompt("Enter the amount to convert:");
+    amount = Number(amount);
+
+    if (isNaN(amount)) {
+        alert("Please enter a valid number.");
+        return;
+    }
+
+    console.log("Amount entered:", amount);
+
+    if (next === current) return;
+
+    const oldScene = document.getElementById(`scene-${current}`);
+    const newScene = document.getElementById(`scene-${next}`);
+
+    oldScene.classList.add("leaving");
+    newScene.classList.add("active");
+
+    setTimeout(() => {
+        oldScene.classList.remove("active", "leaving");
+    }, 900);
+
+    current = next;
+}
