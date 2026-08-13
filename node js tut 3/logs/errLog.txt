@@ -1,0 +1,36 @@
+2026-08-03 178578786309:11:03 	 7f5b14ed-56ba-463a-81d5-0c19e9f60d36 	 Error: No default engine was specified and no extension was provided.
+2026-08-03 178579025909:50:59 	 e1b391ab-902b-45f5-b2e6-e1f87aedf706 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-04 178590979319:03:13 	 ec166342-93fc-4eae-a28a-43ab9860e7b2 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-04 178590979519:03:15 	 2b83e68b-aed2-4785-b625-8bd9ee34ac0c 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-04 178592505323:17:33 	 ff76d4ae-6520-432d-9eb3-a9ec404ff3ae 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-04 178592602223:33:42 	 ebd58fc1-33cc-4298-a25b-f0f698cb34d1 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-04 178592673223:45:32 	 8c8bf5ed-09ac-4fca-90c0-74b07f1de5bf 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-04 178592679523:46:35 	 bd7b876c-e14f-4085-b9cb-9123f8061fc3 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-04 178592695423:49:14 	 43fbf116-9c5b-4700-be4f-ee0421399427 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-04 178592757523:59:35 	 5fda98bf-137c-43fe-8d61-527c5a20a523 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-05 178592847400:14:34 	 d8cf4d73-7339-4d60-bb41-ba5d623af030 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-05 178592870100:18:21 	 ddf9e729-252e-4afb-b77e-fbb6894ba80a 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-05 178592873200:18:52 	 98199f46-160a-43e8-88be-cf044d0213ad 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-05 178592878700:19:47 	 3ad2f493-5b32-4bde-87fb-b17f035e3a47 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-05 178592936100:29:21 	 3dcf850e-59c8-4a06-a197-5bffb15ba393 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-05 178592943800:30:38 	 1779d8bb-f7af-4741-8bfa-865fa9b78ed9 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-05 178592963500:33:55 	 c6ffcc2f-8363-4617-acbb-87b6f8ebe291 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-05 178592978800:36:28 	 f88bca7f-319c-45c0-bbfd-5077a5d2d71c 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-05 178593003400:40:34 	 a427d2f8-70c9-4c1d-9b7e-bb363930bfbb 	 TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2026-08-05 178593544102:10:41 	 fe90afa4-5ce2-418a-a361-fefe5631604b 	 Error: Cannot set headers after they are sent to the client
+2026-08-05 178593552402:12:04 	 a9186696-e178-4ca0-9b94-5349669dfe7e 	 Error: Cannot set headers after they are sent to the client
+2026-08-05 178593564102:14:01 	 4ece991b-9f4e-486b-a3d3-ed82189bc1d7 	 Error: Cannot set headers after they are sent to the client
+2026-08-05 178593699102:36:31 	 3fda53d9-fd36-4f6c-8abf-73631d5e9045 	 Error: Cannot set headers after they are sent to the client
+2026-08-05 178596285709:47:37 	 0a7ce861-2663-496e-9f6f-258d46f398bd 	 Error: Cannot set headers after they are sent to the client
+2026-08-05 178598831216:51:52 	 110edf95-435e-4a20-9402-0bf778d88f74 	 Error: secretOrPrivateKey must have a value
+2026-08-05 178598834616:52:26 	 6112cc9d-f641-42e1-973c-ec40d9868ccb 	 Error: secretOrPrivateKey must have a value
+2026-08-07 178610384000:57:20 	 c115ab43-ef2f-4ada-a0b3-1cdf62273686 	 Error: secretOrPrivateKey must have a value
+2026-08-07 178610407401:01:14 	 890e1b7f-c207-434b-a7cb-03de06e98af4 	 Error: Cannot set headers after they are sent to the client
+2026-08-07 178614114311:19:03 	 f650496d-58f2-47ad-ab03-f2d6fcb4a442 	 SyntaxError: Unexpected token '"', ""firstname:sandrine"" is not valid JSON
+2026-08-07 178614117411:19:34 	 ead6cee8-62b7-4e46-8600-5ddb00c73ffa 	 SyntaxError: Unexpected token '"', ""\"firstna"... is not valid JSON
+2026-08-07 178614119411:19:54 	 f3862125-a1c7-4be7-9b21-b09046ce99b1 	 SyntaxError: Unexpected token '"', ""{\"firstn"... is not valid JSON
+2026-08-07 178614120811:20:08 	 e5942e24-a575-45c8-806a-b4e22f620186 	 SyntaxError: Unexpected token '"', ""{\"firstn"... is not valid JSON
+2026-08-07 178614124711:20:47 	 6be18958-5083-464f-a10f-d4d7c45f25bd 	 SyntaxError: Unexpected token '"', ""{\"firstn"... is not valid JSON
+2026-08-07 178614207411:34:34 	 db22426c-0040-49c1-a173-e7d31ebd8c69 	 SyntaxError: Unexpected token '"', ""{\"id\":\"... is not valid JSON
+2026-08-07 178615669815:38:18 	 f83007b4-51a4-4a44-a084-aad4ceba0807 	 SyntaxError: Unexpected token '"', ""{\"id\":\"... is not valid JSON
+2026-08-07 178615672015:38:40 	 f0d9a79a-cd0e-4ef3-aee8-256998e49acb 	 SyntaxError: Unexpected token '"', ""{\n\"fist"... is not valid JSON
